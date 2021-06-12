@@ -13,6 +13,8 @@
 
 ### How to use
 
+- Clone or Download the repository. In the folder `developers-alarm` you will see all the progam files.
+
 - By default alarm time is set to 25 minutes. But you can change as per your needs. To change the alarm time you should modify the variable named `alarmTime` in the `app.js` file as follows:
 
 ```js
